@@ -1,6 +1,6 @@
 # Calculator App
 
-![Calculator App Screenshot](screenshot.png)
+![Calculator App Screenshot](calculatorGUI.png)
 
 ## Description
 
@@ -41,8 +41,8 @@ python calculator.py
 
 ## Screenshots
 
-![Calculator App Screenshot 1](screenshot1.png)
-![Calculator App Screenshot 2](screenshot2.png)
+![Calculator App Screenshot 1](calculatorGUI2.png)
+![Calculator App Screenshot 2](calculatorGUI3.png)
 
 ## Contributing
 
