@@ -12,7 +12,6 @@ This is a simple calculator application built using Python and the Tkinter libra
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
